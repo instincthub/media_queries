@@ -21,6 +21,13 @@ Media queries can be used to check many things, such as:
 
 Using media queries are a popular technique for delivering a tailored style sheet to desktops, laptops, tablets, and mobile phones (such as iPhone and Android phones).
 
+## Media query syntax
+```css
+@media not|only mediatype and (expressions) {
+  CSS-Code;
+}
+```
+
 ## Sources:
 [InstinctHub](https://skills.instincthub.com/)
 [W3School](https://www.w3schools.com/css/css3_mediaqueries.asp)
