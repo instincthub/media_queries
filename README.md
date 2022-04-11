@@ -29,5 +29,5 @@ Using media queries are a popular technique for delivering a tailored style shee
 ```
 
 ## Sources:
-[InstinctHub](https://skills.instincthub.com/)
-[W3School](https://www.w3schools.com/css/css3_mediaqueries.asp)
+* [InstinctHub](https://skills.instincthub.com/)
+* [W3School](https://www.w3schools.com/css/css3_mediaqueries.asp)
